@@ -1,0 +1,57 @@
+1. clone this repo to your machine.
+2. Navigate to submission directory, create a directory with your name ex: vikas_practice and place all your answers in this directory.
+  - write all commands you executed in commaands_executed.txt file with corresponding question.
+  - take snippets of all executed commands and results and save it snippets directory with question number, create a snippets directory after step2 directory.
+  - make sure to push all without missing.
+3. download this rar file https://drive.google.com/file/d/1KQITJ7GSpf9iROxk7yfkoscaI4Ky3b-F/ into your machine and then start your linux questions.
+
+__Provide answers for below questions in devops_answers.txt__
+
+1. What is DevOps
+2. What is Automation, Scaling, Infrastructure
+3. Why DevOps is Important, etc
+  
+**Task: What is the linux command to (Follow the Instructions 1 to 4)**
+
+1.	Check your present working directory.
+2.	List all the files or directories including hidden files.
+3.	Create a nested directory A/B/C/D/E
+4.	To view what's written in a file.
+5.	To change the access permissions of files.
+6.	To check which commands you have run till now.
+7.	To remove a directory/ Folder.
+8.	To create a fruits.txt file and to view the content.
+9.	Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+10.	To Show only top three fruits from the file.
+11.	To Show only bottom three fruits from the file.
+12.	To create another file Colors.txt and to view the content.
+13.	Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
+14.	To find the difference between fruits.txt and Colors.txt file.
+15.	Navigate to your home directory and create a directory named submission directory..
+16.	Change the permissions of the practice_<yourname> directory to all can read, write and access.
+17.	I want the output of a directory /home/<username>/backup  in a text file named list.txt and save it in submission directory..
+18.	I want to find the path of the backup directory and store it in find.txt in and  save it in submission directory..
+19.	You got an alert that tomcat service is down, what are the troubleshooting steps you took. List out the commands you execute and save it in 5.txt
+20.	After starting the tomcat check the pid of tomcat and save that pid in tomcat_pid.txt in push it into submission directory.
+21.	Navigate to the backup directory and make a copy of the largest file named updated_name and save the list of the files in second_list.txt in push it into submission directory.
+22.	Check the files in the backup directory and zip the largest file.
+23.	Tar the updated_name file.
+24.	Save the ls -lrt output in third_list.txt and save it in push it into submission directory..
+25.	I want to check which process is consuming high cpu and take the PID of that process.
+26.	I want to check which process is taking high memory and take the PID of that process.
+27.	Create file1, file2, file3, file4, files in push it into submission and save the list of files in fourth_list.txt
+28.	Remove the files file1 to file4 and save the list of files in fifth_list.txt
+29.	Check the file systems disk space and revert the output to fifth_list.txt 
+30.	In the backup directory, there is a file test_course, I want to list out only completed topics in completed.txt in push it into submission directory.
+31.	In the backup directory, there is a file test_course, I want to list out not completed topics in not.txt in push it into submission directory.
+32.	In the backup directory, there is a file test_course, I want the count of  completed topics in count.txt in push it into submission directory.
+33.	I want log from 9:24 to 9:28 from the realtime_log_timeline.log and save it to output.log in push it into submission directory.
+34.	I want 31 Mar log file from access.log and save it to log_31_Mar.txt in push it into submission directory.
+35.	I want log from 11:00 to 16:00 of 28 Feb and save it to log_28_Feb.log in push it into submission directory.
+36.	I want the count of word Mar in access.log and save it to count_mar.txt in push it into submission directory.
+37.	perform tar and zip of tomcat_log and apache_log and compare which format compressed more in MB
+38.	Check the ports which are in Listening mode and save it in ports.txt in submission directory.
+39.	Check the tomcat9 and httpd services are running or not if not run those services and now check the ports which are in listening mode and save the output in ports_service.txt
+40.	Check the connectivity to 8.8.8.8 and save it connect.txt in the push it into submission directory.
+41.	Check how the connectivity is connecting to www.google.com from your server and save it connect_url.txt in push it into submission directory.
+42.	I want to know the ip address and hostname of your server. Save it host_details.txt in push it into submission directory.
